@@ -1,0 +1,13 @@
+name: FPList
+version: '${version}'
+main: com.trytig.fplist.FPList
+api-version: 1.18
+authors: [ coolTREVV ]
+description: Proudly display your plugins with Fancy Plugin List
+
+commands:
+  plugins:
+    description: "View server plugins"
+    aliases:
+      - plugin
+      - pl
